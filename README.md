@@ -38,7 +38,6 @@ wifi_scanner/
 ## ⚙ Installation
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/dheeraj05-22/WI-FI-SECURITY-ANALYSIS.git
 cd WI-FI-SECURITY-ANALYSIS
 
