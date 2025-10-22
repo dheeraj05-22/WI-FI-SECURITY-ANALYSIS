@@ -39,8 +39,8 @@ wifi_scanner/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/wifi_scanner.git
-cd wifi_scanner
+git clone https://github.com/dheeraj05-22/WI-FI-SECURITY-ANALYSIS.git
+cd WI-FI-SECURITY-ANALYSIS
 
 ### 2. Install dependencies
 sudo apt update
