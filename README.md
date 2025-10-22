@@ -41,15 +41,19 @@ wifi_scanner/
 ..bash
 
 git clone https://github.com/dheeraj05-22/WI-FI-SECURITY-ANALYSIS.git
+
 cd WI-FI-SECURITY-ANALYSIS
 
 ### 2. Install dependencies
 sudo apt update
+
 sudo apt install python3-matplotlib python3-reportlab aircrack-ng -y
 
 ### (Optional: Create a Python virtual environment)
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install matplotlib reportlab
 
 ###  🚀 Usage
@@ -61,9 +65,13 @@ sudo python3 wifi_scanner.py
 
 The tool will:
 ✔ Detect the available Wi-Fi interface
+
 ✔ Enable monitor mode
+
 ✔ Start scanning and show live results in the terminal
+
 ✔ On pressing Ctrl+C, stop scanning and generate PDF reports
+
 
 ### 📦 Dependencies
 
